@@ -2,7 +2,7 @@ This repository is for the Pantry-for-Good application designed by Open Source f
 
 You can test it out by deploying to [Heroku](https://www.heroku.com):
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freeCodeCamp/Pantry-for-Good/tree/staging)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TechnoTrumpet/Pantry-for-Good/tree/staging)
 
 The button creates an admin account with username `admin@example.com` and password `password`.
 
