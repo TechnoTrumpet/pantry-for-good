@@ -104,7 +104,6 @@
     "request": "^2.79.0",
     "reselect": "^3.0.0",
     "sanitize-html": "^1.14.1",
-    "sendgrid": "^5.1.0",
     "shx": "^0.2.2",
     "socket.io": "^2.0.2",
     "striptags": "^3.0.1",
